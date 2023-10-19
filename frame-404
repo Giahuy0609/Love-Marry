@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    min-height: 100vh;
+    background-color: #FFF8DC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'lato';
+    text-align: center;
+    font-size: 15px;
+}
+body div{
+    margin-top: 25px;
+    color: #bfbfbf;
+    font-size: 15px;
+}
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+}
+.button{
+    text-decoration: none;
+    background-color: #EBFFFE;
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 3px 3px 0px 0px rgb(51, 51, 51);
+    font-weight: bold;
+}
